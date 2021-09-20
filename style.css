@@ -1,6 +1,14 @@
 #tableau1 {
     list-style-type: none;
-    text-align: center;
+    text-align: center;  
+    }
+    img{
+        width: 57px;
+        border-radius: 20px;
+    }
+    button{
+        border-radius: 20px;
+        padding: 5px;
     }
 
 #imgTableau2 {
@@ -10,3 +18,15 @@
 #titreTableau1 {
     color: white;
 }
+
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 15px;
+}
+
+h6 {
+    font-size: 12px;
+}
+
